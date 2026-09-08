@@ -8,9 +8,9 @@ A lightweight, collaborative web application developed as part of a hands-on Git
 
 | Name | Role | Responsibilities |
 | :--- | :--- | :--- |
-| **Student 1** | Team Lead / Integrator | Repository setup, base project scaffolding, PR reviews & merging |
-| **Student 2** | UI / Frontend Developer | HTML/CSS enhancements, card layout, styling, contact details |
-| **Student 3** | JavaScript Developer | Interactive JS functionality, event handling, conflict resolution |
+| **Merry Don** | Student 1 (Team Lead / Integrator) | Repository setup, base project scaffolding, PR reviews & merging |
+| **Jinisha Leema Rosario** | Student 2 (UI / Frontend Developer) | HTML/CSS enhancements, card layout, styling, contact details |
+| **Darshan Pundlik Heble** | Student 3 (JavaScript Developer) | Interactive JS functionality, event handling, conflict resolution |
 
 ---
 
