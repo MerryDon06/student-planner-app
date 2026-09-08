@@ -13,28 +13,38 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: #222;
+    margin-bottom: 30px;
+    font-size: 28px;
+    letter-spacing: 0.5px;
 }
 
 .student-card {
     background-color: white;
-    padding: 30px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 35px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+    border: 1px solid #e5e5e5;
 }
 
 .student-card p {
     text-align: left;
     font-size: 18px;
+    margin: 10px 0;
+    padding-bottom: 8px;
+    border-bottom: 1px solid #f0f0f0;
 }
 
 button {
-    padding: 10px 20px;
+    margin-top: 15px;
+    padding: 12px 24px;
     border: none;
-    border-radius: 5px;
+    border-radius: 6px;
     background-color: #333;
     color: white;
+    font-size: 15px;
     cursor: pointer;
+    transition: background-color 0.2s ease;
 }
 
 button:hover {
@@ -44,4 +54,5 @@ button:hover {
 #details {
     margin-top: 20px;
     font-weight: bold;
+    color: #2a7a2a;
 }
