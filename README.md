@@ -84,7 +84,10 @@ Both `Student 2` (`feature/student-name`) and `Student 3` (`feature/app-title`) 
   <h1>MCA Student Information Portal</h1>
   ```
 
-When `feature/student-name` was merged first, GitHub flagged a conflict on `feature/app-title`'s PR because Git could not automatically decide which title to keep.
+When `feature/jinisha` was merged first, GitHub flagged a conflict on `feature/app-title`'s PR because Git could not automatically decide which title to keep.
+
+#### Conflict Evidence on GitHub:
+![Merge Conflict on GitHub](screenshots/conflict_evidence.png)
 
 ### How Was It Resolved?
 1. Fetched the latest `main` branch:
@@ -102,6 +105,10 @@ When `feature/student-name` was merged first, GitHub flagged a conflict on `feat
    <h1>Student Management System</h1>
    >>>>>>> main
    ```
+
+#### Conflict Markers in Editor (Local Evidence):
+![Editor Conflict Markers](screenshots/editor_conflict_markers.png)
+
 3. The conflict was resolved collaboratively by combining both titles:
    ```html
    <h1>Student Management System – MCA</h1>
