@@ -105,6 +105,10 @@ When `feature/jinisha` was merged first, GitHub flagged a conflict on `feature/a
    <h1>Student Management System</h1>
    >>>>>>> main
    ```
+
+#### Conflict Markers in Editor (Local Evidence):
+![Editor Conflict Markers](screenshots/editor_conflict_markers.png)
+
 3. The conflict was resolved collaboratively by combining both titles:
    ```html
    <h1>Student Management System – MCA</h1>
